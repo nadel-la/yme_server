@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Lisa",
+    "email": "lisaLalisa@mail.com",
+    "password": "lisa",
+    "about": "Hi, I'm Lisa, a Hip-Hop teacher with many years of experience. I teach fun and inclusive classes that focus on building technique and individual expression. Join me to learn new moves, build your confidence, and connect with other Hip-Hop lovers. Let's dance!",
+    "rate": 850000,
+    "instagram": "https://www.instagram.com/lalalalisa_m/",
+    "image": "https://pbs.twimg.com/media/Fuvs5dXWIAEP345?format=jpg&name=large",
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "Kazuha",
+    "email": "kazuha@mail.com",
+    "password": "kazuha",
+    "about": "Hi, I'm Kazuha, a ballet instructor with 10 years of experience. I teach students of all levels the fundamental principles of ballet, emphasizing technical excellence and artistic expression. Join me in a supportive and inclusive environment to build your confidence, creativity, and grace as a ballet artist.",
+    "rate": 500000,
+    "instagram": "https://www.instagram.com/k_a_z_u_h_a__/",
+    "image": "https://lh3.googleusercontent.com/YFQ3KqpKtwxmknMw99nwMB_Ns4f9qqZws9szGQhKWCtFCmskcsBcWTCOJMBWgkRFfTpjkinPLZ1nOpkOLyo-F_LmfygNt5wKSLkp_xHXTX0maQ=w960-rj-nu-e365",
+    "categoryId": 2
+  },
+  {
+    "id": 3,
+    "name": "Chungha",
+    "email": "chungha@mail.com",
+    "password": "chungha",
+    "about": "Hey there, I'm Chungha, a Waacking dance instructor with 3 of experience. In my classes, I teach the techniques and style of Waacking, emphasizing musicality and expression. Join me in a fun and supportive environment to learn new moves, build your skills, and explore your creativity. Let's discover the joy and freedom of Waacking dance together!",
+    "rate": 500000,
+    "instagram": "https://www.instagram.com/chungha_official/?hl=en",
+    "image": "https://lastfm.freetls.fastly.net/i/u/770x0/9ebce8b7d23654d377303e506cd12996.jpg",
+    "categoryId": 3
+  },
+  {
+    "id": 4,
+    "name": "J-Hope",
+    "email": "j-Hope@mail.com",
+    "password": "J-Hope",
+    "about": "Hi, I'm J-Hope, a Hip-Hop teacher with many years of experience. I teach fun and inclusive classes that focus on building technique and individual expression. Join me to learn new moves, build your confidence, and connect with other Hip-Hop lovers. Let's dance!",
+    "rate": 900000,
+    "instagram": "https://www.instagram.com/uarmyhope/",
+    "image": "https://0.soompi.io/wp-content/uploads/2021/12/21144915/j-hope.jpeg",
+    "categoryId": 1
+  },
+  {
+    "id": 5,
+    "name": "Ryujin",
+    "email": "Ryujin@mail.com",
+    "password": "Ryujin",
+    "about": "Hi, I'm Ryujin, a Hip-Hop teacher with 5 years of experience. I teach fun and inclusive classes that focus on building technique and individual expression. Join me to learn new moves, build your confidence, and connect with other Hip-Hop lovers. Let's dance!",
+    "rate": 900000,
+    "instagram": "",
+    "image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1600799710/vnhzcbnnus8mr16rmzty.png",
+    "categoryId": 1
+  },
+  {
+    "id": 6,
+    "name": "Kai",
+    "email": "Kai@mail.com",
+    "password": "Kai",
+    "about": "Hi, I'm Kai, a Hip-Hop teacher with many years of experience. I teach fun and inclusive classes that focus on building technique and individual expression. Join me to learn new moves, build your confidence, and connect with other Hip-Hop lovers. Let's dance!",
+    "rate": 870000,
+    "instagram": "https://www.instagram.com/zkdlin/?hl=en",
+    "image": "https://nationaltoday.com/wp-content/uploads/2022/03/Kai-Birthday-.jpg",
+    "categoryId": 1
+  }
+]

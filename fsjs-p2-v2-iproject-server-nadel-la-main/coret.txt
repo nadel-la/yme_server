@@ -1,0 +1,13 @@
+
+npx sequelize-cli model:generate --name Category --attributes category:string
+
+npx sequelize-cli model:generate --name Mentee --attributes name:string,email:string,password:string,categoryId:integer
+
+npx sequelize-cli model:generate --name Mentor --attributes name:string,email:string,password:string,about:string,rate:integer,instagram:string,image:string,categoryId:integer
+
+npx sequelize-cli model:generate --name Wishlist --attributes mentorId:integer,menteeId:integer
+
+
+
+npx sequelize-cli migration:generate --name addImageToMentor
+
