@@ -59,7 +59,3 @@ By default, the server will listen on port 3000. You can change this by setting 
 ```
 PORT=8080 npm start
 ```
-
-## Contributing
-
-Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
