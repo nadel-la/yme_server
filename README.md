@@ -1,7 +1,5 @@
 # YME Server
 
-![YME Server Logo](./assets/logo.png)
-
 YME Server is a Node.js Express-based application, complete with routing and a Model-View-Controller (MVC) structure. This repository serves as the starting point for building a custom server to handle various client requests.
 
 ## Table of Contents
@@ -37,7 +35,7 @@ Before you begin, make sure you have the following software installed on your sy
 2. Change to the project directory:
 
    ````
-   cd yme_server
+   cd fsjs-p2-v2-iproject-server-nadel-la-main
    ```
 
 3. Install the project dependencies:
